@@ -1,0 +1,13 @@
+pre-commit
+boto3>=1.16.9
+Flask>=1.1.2
+flask-cors
+halohalo>=0.0.13
+kumuniverse
+python-dotenv
+pandas
+ddtrace
+
+# dev dependencies
+pytest
+pytest-order
